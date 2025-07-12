@@ -38,7 +38,8 @@ public:
         }
         gScore[start] = 0;
         
-        openSet.push({start, 0, calculateHeuristic(start, goal), 0, -1});
+        openSet.push({start, 0, calculateHeuristic(start, goal), -1});
+
         parent.assign(cities.size(), -1);
         
         while (!openSet.empty()) {
