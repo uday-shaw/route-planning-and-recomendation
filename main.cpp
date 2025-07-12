@@ -349,6 +349,17 @@ struct SystemSettings {
 };
 // 5. Advanced User Interface
 // Interactive Menu System
+string getGoalName(OptimizationGoal goal) {
+    switch (goal) {
+        case OptimizationGoal::SHORTEST_DISTANCE: return "Shortest";
+        case OptimizationGoal::FASTEST_TIME: return "Fastest";
+        case OptimizationGoal::LOWEST_COST: return "Cheapest";
+        case OptimizationGoal::SAFEST_ROUTE: return "Safest";
+        case OptimizationGoal::ECO_FRIENDLY: return "Eco-Friendly";
+        default: return "Unknown";
+    }
+}
+
 class InteractiveInterface {
 private:
     SystemSettings settings;
