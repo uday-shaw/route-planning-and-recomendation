@@ -1,5 +1,8 @@
 #include <queue>
 #include <cmath>
+#include "json.hpp"
+using json = nlohmann::json;
+
 
 struct Node {
     int id;
