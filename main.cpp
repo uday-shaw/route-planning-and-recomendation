@@ -3,6 +3,26 @@
 #include "json.hpp"
 using json = nlohmann::json;
 
+class Graph {
+protected:
+    unordered_map<int, vector<Edge>> adjList;
+    unordered_map<int, City> cities;
+};
+void InteractiveInterface::exportAsCSV() {
+    cout << "📁 Exporting route as CSV... (stub)\n";
+    // TODO: actual logic
+}
+
+void InteractiveInterface::exportAsJSON() {
+    cout << "📁 Exporting route as JSON... (stub)\n";
+    // TODO: actual logic
+}
+
+void InteractiveInterface::exportAsGPX() {
+    cout << "📁 Exporting route as GPX... (stub)\n";
+    // TODO: actual logic
+}
+
 
 struct Node {
     int id;
