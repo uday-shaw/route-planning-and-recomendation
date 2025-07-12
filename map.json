@@ -3,1634 +3,4354 @@
     {
       "id": 0,
       "name": "City0",
-      "x": 50,
-      "y": 24
-    },
-    {
-      "id": 1,
-      "name": "City1",
-      "x": 30,
-      "y": 49
-    },
-    {
-      "id": 2,
-      "name": "City2",
-      "x": 64,
-      "y": 75
-    },
-    {
-      "id": 3,
-      "name": "City3",
-      "x": 14,
-      "y": 90
-    },
-    {
-      "id": 4,
-      "name": "City4",
-      "x": 91,
-      "y": 25
-    },
-    {
-      "id": 5,
-      "name": "City5",
-      "x": 100,
-      "y": 19
-    },
-    {
-      "id": 6,
-      "name": "City6",
-      "x": 95,
-      "y": 39
-    },
-    {
-      "id": 7,
-      "name": "City7",
-      "x": 4,
-      "y": 38
-    },
-    {
-      "id": 8,
-      "name": "City8",
-      "x": 82,
-      "y": 52
-    },
-    {
-      "id": 9,
-      "name": "City9",
-      "x": 16,
-      "y": 88
-    },
-    {
-      "id": 10,
-      "name": "City10",
-      "x": 98,
-      "y": 19
-    },
-    {
-      "id": 11,
-      "name": "City11",
-      "x": 79,
-      "y": 2
-    },
-    {
-      "id": 12,
-      "name": "City12",
-      "x": 69,
-      "y": 6
-    },
-    {
-      "id": 13,
-      "name": "City13",
-      "x": 79,
-      "y": 73
-    },
-    {
-      "id": 14,
-      "name": "City14",
-      "x": 84,
-      "y": 81
-    },
-    {
-      "id": 15,
-      "name": "City15",
-      "x": 53,
-      "y": 73
-    },
-    {
-      "id": 16,
-      "name": "City16",
-      "x": 27,
-      "y": 41
-    },
-    {
-      "id": 17,
-      "name": "City17",
-      "x": 95,
-      "y": 46
-    },
-    {
-      "id": 18,
-      "name": "City18",
-      "x": 79,
-      "y": 80
-    },
-    {
-      "id": 19,
-      "name": "City19",
-      "x": 66,
-      "y": 44
-    },
-    {
-      "id": 20,
-      "name": "City20",
-      "x": 18,
-      "y": 32
-    },
-    {
-      "id": 21,
-      "name": "City21",
-      "x": 52,
-      "y": 4
-    },
-    {
-      "id": 22,
-      "name": "City22",
-      "x": 28,
-      "y": 95
-    },
-    {
-      "id": 23,
-      "name": "City23",
-      "x": 92,
-      "y": 2
-    },
-    {
-      "id": 24,
-      "name": "City24",
-      "x": 88,
-      "y": 64
-    },
-    {
-      "id": 25,
-      "name": "City25",
-      "x": 67,
-      "y": 18
-    },
-    {
-      "id": 26,
-      "name": "City26",
-      "x": 38,
-      "y": 35
-    },
-    {
-      "id": 27,
-      "name": "City27",
-      "x": 93,
-      "y": 93
-    },
-    {
-      "id": 28,
-      "name": "City28",
-      "x": 64,
-      "y": 96
-    },
-    {
-      "id": 29,
-      "name": "City29",
-      "x": 45,
-      "y": 93
-    },
-    {
-      "id": 30,
-      "name": "City30",
-      "x": 27,
-      "y": 87
-    },
-    {
-      "id": 31,
-      "name": "City31",
-      "x": 41,
-      "y": 79
-    },
-    {
-      "id": 32,
-      "name": "City32",
-      "x": 55,
-      "y": 13
-    },
-    {
-      "id": 33,
-      "name": "City33",
-      "x": 15,
-      "y": 80
-    },
-    {
-      "id": 34,
-      "name": "City34",
-      "x": 33,
-      "y": 62
-    },
-    {
-      "id": 35,
-      "name": "City35",
-      "x": 84,
-      "y": 15
-    },
-    {
-      "id": 36,
-      "name": "City36",
-      "x": 91,
-      "y": 54
-    },
-    {
-      "id": 37,
-      "name": "City37",
-      "x": 70,
-      "y": 86
-    },
-    {
-      "id": 38,
-      "name": "City38",
-      "x": 55,
-      "y": 67
-    },
-    {
-      "id": 39,
-      "name": "City39",
-      "x": 50,
-      "y": 42
-    },
-    {
-      "id": 40,
-      "name": "City40",
-      "x": 66,
-      "y": 12
-    },
-    {
-      "id": 41,
-      "name": "City41",
-      "x": 30,
-      "y": 90
-    },
-    {
-      "id": 42,
-      "name": "City42",
-      "x": 46,
-      "y": 21
-    },
-    {
-      "id": 43,
-      "name": "City43",
-      "x": 10,
-      "y": 24
-    },
-    {
-      "id": 44,
-      "name": "City44",
-      "x": 18,
-      "y": 26
-    },
-    {
-      "id": 45,
-      "name": "City45",
-      "x": 81,
-      "y": 40
-    },
-    {
-      "id": 46,
-      "name": "City46",
-      "x": 46,
-      "y": 66
-    },
-    {
-      "id": 47,
-      "name": "City47",
-      "x": 84,
-      "y": 9
-    },
-    {
-      "id": 48,
-      "name": "City48",
       "x": 57,
       "y": 12
     },
     {
+      "id": 1,
+      "name": "City1",
+      "x": 65,
+      "y": 58
+    },
+    {
+      "id": 2,
+      "name": "City2",
+      "x": 0,
+      "y": 33
+    },
+    {
+      "id": 3,
+      "name": "City3",
+      "x": 13,
+      "y": 66
+    },
+    {
+      "id": 4,
+      "name": "City4",
+      "x": 23,
+      "y": 49
+    },
+    {
+      "id": 5,
+      "name": "City5",
+      "x": 21,
+      "y": 48
+    },
+    {
+      "id": 6,
+      "name": "City6",
+      "x": 96,
+      "y": 2
+    },
+    {
+      "id": 7,
+      "name": "City7",
+      "x": 79,
+      "y": 25
+    },
+    {
+      "id": 8,
+      "name": "City8",
+      "x": 45,
+      "y": 5
+    },
+    {
+      "id": 9,
+      "name": "City9",
+      "x": 97,
+      "y": 94
+    },
+    {
+      "id": 10,
+      "name": "City10",
+      "x": 81,
+      "y": 35
+    },
+    {
+      "id": 11,
+      "name": "City11",
+      "x": 53,
+      "y": 44
+    },
+    {
+      "id": 12,
+      "name": "City12",
+      "x": 54,
+      "y": 78
+    },
+    {
+      "id": 13,
+      "name": "City13",
+      "x": 12,
+      "y": 85
+    },
+    {
+      "id": 14,
+      "name": "City14",
+      "x": 64,
+      "y": 41
+    },
+    {
+      "id": 15,
+      "name": "City15",
+      "x": 41,
+      "y": 38
+    },
+    {
+      "id": 16,
+      "name": "City16",
+      "x": 79,
+      "y": 22
+    },
+    {
+      "id": 17,
+      "name": "City17",
+      "x": 85,
+      "y": 76
+    },
+    {
+      "id": 18,
+      "name": "City18",
+      "x": 50,
+      "y": 66
+    },
+    {
+      "id": 19,
+      "name": "City19",
+      "x": 75,
+      "y": 82
+    },
+    {
+      "id": 20,
+      "name": "City20",
+      "x": 35,
+      "y": 79
+    },
+    {
+      "id": 21,
+      "name": "City21",
+      "x": 24,
+      "y": 61
+    },
+    {
+      "id": 22,
+      "name": "City22",
+      "x": 20,
+      "y": 100
+    },
+    {
+      "id": 23,
+      "name": "City23",
+      "x": 13,
+      "y": 3
+    },
+    {
+      "id": 24,
+      "name": "City24",
+      "x": 7,
+      "y": 48
+    },
+    {
+      "id": 25,
+      "name": "City25",
+      "x": 92,
+      "y": 99
+    },
+    {
+      "id": 26,
+      "name": "City26",
+      "x": 53,
+      "y": 34
+    },
+    {
+      "id": 27,
+      "name": "City27",
+      "x": 72,
+      "y": 0
+    },
+    {
+      "id": 28,
+      "name": "City28",
+      "x": 57,
+      "y": 19
+    },
+    {
+      "id": 29,
+      "name": "City29",
+      "x": 80,
+      "y": 59
+    },
+    {
+      "id": 30,
+      "name": "City30",
+      "x": 14,
+      "y": 40
+    },
+    {
+      "id": 31,
+      "name": "City31",
+      "x": 6,
+      "y": 15
+    },
+    {
+      "id": 32,
+      "name": "City32",
+      "x": 63,
+      "y": 38
+    },
+    {
+      "id": 33,
+      "name": "City33",
+      "x": 54,
+      "y": 74
+    },
+    {
+      "id": 34,
+      "name": "City34",
+      "x": 34,
+      "y": 17
+    },
+    {
+      "id": 35,
+      "name": "City35",
+      "x": 20,
+      "y": 37
+    },
+    {
+      "id": 36,
+      "name": "City36",
+      "x": 48,
+      "y": 99
+    },
+    {
+      "id": 37,
+      "name": "City37",
+      "x": 30,
+      "y": 59
+    },
+    {
+      "id": 38,
+      "name": "City38",
+      "x": 38,
+      "y": 24
+    },
+    {
+      "id": 39,
+      "name": "City39",
+      "x": 28,
+      "y": 65
+    },
+    {
+      "id": 40,
+      "name": "City40",
+      "x": 64,
+      "y": 23
+    },
+    {
+      "id": 41,
+      "name": "City41",
+      "x": 87,
+      "y": 52
+    },
+    {
+      "id": 42,
+      "name": "City42",
+      "x": 93,
+      "y": 63
+    },
+    {
+      "id": 43,
+      "name": "City43",
+      "x": 65,
+      "y": 45
+    },
+    {
+      "id": 44,
+      "name": "City44",
+      "x": 58,
+      "y": 62
+    },
+    {
+      "id": 45,
+      "name": "City45",
+      "x": 67,
+      "y": 27
+    },
+    {
+      "id": 46,
+      "name": "City46",
+      "x": 4,
+      "y": 78
+    },
+    {
+      "id": 47,
+      "name": "City47",
+      "x": 41,
+      "y": 1
+    },
+    {
+      "id": 48,
+      "name": "City48",
+      "x": 86,
+      "y": 15
+    },
+    {
       "id": 49,
       "name": "City49",
-      "x": 3,
-      "y": 25
+      "x": 36,
+      "y": 83
     }
   ],
   "edges": [
     {
-      "u": 19,
-      "v": 26,
-      "base": 12,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 4,
-        "evening": 1
-      }
-    },
-    {
       "u": 32,
-      "v": 8,
-      "base": 8,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 2,
-        "evening": 2
-      }
-    },
-    {
-      "u": 16,
-      "v": 3,
-      "base": 14,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 3,
-        "evening": 4
-      }
-    },
-    {
-      "u": 36,
-      "v": 1,
-      "base": 11,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 4,
-        "evening": 5
-      }
-    },
-    {
-      "u": 5,
-      "v": 13,
-      "base": 13,
-      "traffic": {
-        "morning": -1,
-        "afternoon": -1,
-        "evening": 6
-      }
-    },
-    {
-      "u": 15,
       "v": 47,
-      "base": 3,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 0,
-        "evening": 2
-      }
-    },
-    {
-      "u": 49,
-      "v": 31,
-      "base": 14,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 2,
-        "evening": 0
-      }
-    },
-    {
-      "u": 49,
-      "v": 18,
-      "base": 14,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 1,
-        "evening": 0
-      }
-    },
-    {
-      "u": 37,
-      "v": 23,
-      "base": 7,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 4,
-        "evening": 2
-      }
-    },
-    {
-      "u": 8,
-      "v": 1,
-      "base": 4,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 4,
-        "evening": 6
-      }
-    },
-    {
-      "u": 19,
-      "v": 39,
-      "base": 14,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 4,
-        "evening": 4
-      }
-    },
-    {
-      "u": 21,
-      "v": 0,
-      "base": 12,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 4,
-        "evening": 1
-      }
-    },
-    {
-      "u": 9,
-      "v": 34,
-      "base": 3,
-      "traffic": {
-        "morning": 4,
-        "afternoon": 1,
-        "evening": 1
-      }
-    },
-    {
-      "u": 47,
-      "v": 38,
-      "base": 11,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 0,
-        "evening": 5
-      }
-    },
-    {
-      "u": 17,
-      "v": 47,
-      "base": 5,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 4,
-        "evening": 1
-      }
-    },
-    {
-      "u": 26,
-      "v": 29,
-      "base": 13,
-      "traffic": {
-        "morning": -2,
-        "afternoon": -2,
-        "evening": 4
-      }
-    },
-    {
-      "u": 26,
-      "v": 45,
-      "base": 2,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 3,
-        "evening": 3
-      }
-    },
-    {
-      "u": 21,
-      "v": 30,
-      "base": 11,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 4,
-        "evening": 3
-      }
-    },
-    {
-      "u": 36,
-      "v": 24,
-      "base": 14,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 0,
-        "evening": 3
-      }
-    },
-    {
-      "u": 33,
-      "v": 28,
-      "base": 3,
-      "traffic": {
-        "morning": -3,
-        "afternoon": -2,
-        "evening": 3
-      }
-    },
-    {
-      "u": 48,
-      "v": 3,
-      "base": 14,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 3,
-        "evening": 0
-      }
-    },
-    {
-      "u": 5,
-      "v": 28,
-      "base": 4,
-      "traffic": {
-        "morning": -2,
-        "afternoon": -1,
-        "evening": 4
-      }
-    },
-    {
-      "u": 19,
-      "v": 14,
-      "base": 14,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 2,
-        "evening": 0
-      }
-    },
-    {
-      "u": 25,
-      "v": 22,
-      "base": 12,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 2,
-        "evening": 2
-      }
-    },
-    {
-      "u": 11,
-      "v": 34,
-      "base": 6,
-      "traffic": {
-        "morning": -2,
-        "afternoon": -1,
-        "evening": 0
-      }
-    },
-    {
-      "u": 40,
-      "v": 37,
-      "base": 13,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 2,
-        "evening": 4
-      }
-    },
-    {
-      "u": 18,
-      "v": 48,
-      "base": 13,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 1,
-        "evening": 3
-      }
-    },
-    {
-      "u": 5,
-      "v": 37,
-      "base": 5,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 0,
-        "evening": 6
-      }
-    },
-    {
-      "u": 37,
-      "v": 9,
-      "base": 7,
-      "traffic": {
-        "morning": 4,
-        "afternoon": -2,
-        "evening": 1
-      }
-    },
-    {
-      "u": 19,
-      "v": 17,
-      "base": 4,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 3,
-        "evening": 6
-      }
-    },
-    {
-      "u": 33,
-      "v": 34,
-      "base": 4,
-      "traffic": {
-        "morning": 3,
-        "afternoon": -2,
-        "evening": 0
-      }
-    },
-    {
-      "u": 32,
-      "v": 1,
-      "base": 12,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 0,
-        "evening": 3
-      }
-    },
-    {
-      "u": 25,
-      "v": 17,
-      "base": 15,
-      "traffic": {
-        "morning": 3,
-        "afternoon": 2,
-        "evening": 1
-      }
-    },
-    {
-      "u": 25,
-      "v": 40,
-      "base": 11,
-      "traffic": {
-        "morning": 4,
-        "afternoon": -2,
-        "evening": 2
-      }
-    },
-    {
-      "u": 44,
-      "v": 12,
-      "base": 13,
-      "traffic": {
-        "morning": 4,
-        "afternoon": 0,
-        "evening": 2
-      }
-    },
-    {
-      "u": 25,
-      "v": 31,
-      "base": 15,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 4,
-        "evening": 2
-      }
-    },
-    {
-      "u": 44,
-      "v": 25,
-      "base": 13,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 0,
-        "evening": 3
-      }
-    },
-    {
-      "u": 29,
-      "v": 13,
-      "base": 7,
-      "traffic": {
-        "morning": -3,
-        "afternoon": -1,
-        "evening": 3
-      }
-    },
-    {
-      "u": 21,
-      "v": 1,
-      "base": 7,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 2,
-        "evening": -1
-      }
-    },
-    {
-      "u": 17,
-      "v": 33,
-      "base": 2,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 2,
-        "evening": 2
-      }
-    },
-    {
-      "u": 8,
-      "v": 4,
-      "base": 2,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 0,
-        "evening": 5
-      }
-    },
-    {
-      "u": 48,
-      "v": 38,
-      "base": 5,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 4,
-        "evening": 2
-      }
-    },
-    {
-      "u": 19,
-      "v": 45,
-      "base": 12,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 0,
-        "evening": 3
-      }
-    },
-    {
-      "u": 16,
-      "v": 32,
-      "base": 6,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 4,
-        "evening": 1
-      }
-    },
-    {
-      "u": 38,
-      "v": 6,
-      "base": 5,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 4,
-        "evening": -1
-      }
-    },
-    {
-      "u": 21,
-      "v": 12,
-      "base": 8,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 0,
-        "evening": 5
-      }
-    },
-    {
-      "u": 3,
-      "v": 41,
-      "base": 2,
-      "traffic": {
-        "morning": 3,
-        "afternoon": 4,
-        "evening": 4
-      }
-    },
-    {
-      "u": 39,
-      "v": 20,
-      "base": 9,
-      "traffic": {
-        "morning": 5,
-        "afternoon": -1,
-        "evening": 1
-      }
-    },
-    {
-      "u": 8,
-      "v": 47,
-      "base": 10,
-      "traffic": {
-        "morning": 4,
-        "afternoon": 0,
-        "evening": 2
-      }
-    },
-    {
-      "u": 2,
-      "v": 15,
-      "base": 9,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 2,
-        "evening": 4
-      }
-    },
-    {
-      "u": 26,
-      "v": 44,
-      "base": 12,
-      "traffic": {
-        "morning": 2,
-        "afternoon": -2,
-        "evening": 6
-      }
-    },
-    {
-      "u": 0,
-      "v": 34,
-      "base": 3,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 3,
-        "evening": 3
-      }
-    },
-    {
-      "u": 41,
-      "v": 42,
       "base": 12,
       "traffic": {
         "morning": -2,
-        "afternoon": 4,
-        "evening": -1
-      }
-    },
-    {
-      "u": 40,
-      "v": 8,
-      "base": 14,
-      "traffic": {
-        "morning": 5,
-        "afternoon": -2,
-        "evening": -1
-      }
-    },
-    {
-      "u": 24,
-      "v": 44,
-      "base": 13,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 3,
-        "evening": 1
-      }
-    },
-    {
-      "u": 47,
-      "v": 29,
-      "base": 7,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 3,
-        "evening": 0
-      }
-    },
-    {
-      "u": 4,
-      "v": 18,
-      "base": 5,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 4,
-        "evening": 6
-      }
-    },
-    {
-      "u": 42,
-      "v": 21,
-      "base": 7,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 1,
-        "evening": 3
-      }
-    },
-    {
-      "u": 39,
-      "v": 32,
-      "base": 5,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 0,
-        "evening": 4
-      }
-    },
-    {
-      "u": 33,
-      "v": 11,
-      "base": 14,
-      "traffic": {
-        "morning": 1,
-        "afternoon": -2,
-        "evening": 6
-      }
-    },
-    {
-      "u": 27,
-      "v": 44,
-      "base": 9,
-      "traffic": {
-        "morning": -2,
-        "afternoon": -2,
-        "evening": -1
-      }
-    },
-    {
-      "u": 6,
-      "v": 32,
-      "base": 11,
-      "traffic": {
-        "morning": -3,
-        "afternoon": -2,
-        "evening": 0
-      }
-    },
-    {
-      "u": 40,
-      "v": 38,
-      "base": 5,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 0,
-        "evening": -1
-      }
-    },
-    {
-      "u": 13,
-      "v": 36,
-      "base": 4,
-      "traffic": {
-        "morning": 1,
-        "afternoon": -1,
-        "evening": -1
-      }
-    },
-    {
-      "u": 29,
-      "v": 40,
-      "base": 5,
-      "traffic": {
-        "morning": 4,
-        "afternoon": 0,
-        "evening": 0
-      }
-    },
-    {
-      "u": 39,
-      "v": 40,
-      "base": 9,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 0,
-        "evening": 6
-      }
-    },
-    {
-      "u": 28,
-      "v": 40,
-      "base": 14,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 3,
-        "evening": 6
-      }
-    },
-    {
-      "u": 28,
-      "v": 9,
-      "base": 2,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 3,
-        "evening": 2
-      }
-    },
-    {
-      "u": 48,
-      "v": 39,
-      "base": 13,
-      "traffic": {
-        "morning": -3,
-        "afternoon": -1,
-        "evening": 0
-      }
-    },
-    {
-      "u": 21,
-      "v": 7,
-      "base": 5,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 1,
-        "evening": 1
-      }
-    },
-    {
-      "u": 15,
-      "v": 4,
-      "base": 9,
-      "traffic": {
-        "morning": 0,
-        "afternoon": -2,
-        "evening": 3
-      }
-    },
-    {
-      "u": 45,
-      "v": 16,
-      "base": 13,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 3,
-        "evening": 5
-      }
-    },
-    {
-      "u": 17,
-      "v": 43,
-      "base": 3,
-      "traffic": {
-        "morning": 0,
         "afternoon": -1,
         "evening": 6
-      }
-    },
-    {
-      "u": 0,
-      "v": 45,
-      "base": 10,
-      "traffic": {
-        "morning": -2,
-        "afternoon": -2,
-        "evening": 5
-      }
-    },
-    {
-      "u": 20,
-      "v": 10,
-      "base": 11,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 3,
-        "evening": 6
-      }
-    },
-    {
-      "u": 24,
-      "v": 32,
-      "base": 13,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 1,
-        "evening": 0
-      }
-    },
-    {
-      "u": 48,
-      "v": 37,
-      "base": 6,
-      "traffic": {
-        "morning": 4,
-        "afternoon": 4,
-        "evening": 5
-      }
-    },
-    {
-      "u": 14,
-      "v": 17,
-      "base": 5,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 4,
-        "evening": 2
-      }
-    },
-    {
-      "u": 7,
-      "v": 14,
-      "base": 14,
-      "traffic": {
-        "morning": -1,
-        "afternoon": -2,
-        "evening": -1
-      }
-    },
-    {
-      "u": 38,
-      "v": 37,
-      "base": 13,
-      "traffic": {
-        "morning": 4,
-        "afternoon": 1,
-        "evening": 4
-      }
+      },
+      "roadQuality": 4,
+      "weatherFactor": 1,
+      "accidentRisk": 0.89,
+      "toll": 26,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "21:00"
+      },
+      "lanes": 4,
+      "speedLimit": 40,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
     },
     {
       "u": 43,
-      "v": 11,
-      "base": 9,
-      "traffic": {
-        "morning": 2,
-        "afternoon": -1,
-        "evening": 6
-      }
-    },
-    {
-      "u": 36,
-      "v": 22,
-      "base": 14,
-      "traffic": {
-        "morning": 0,
-        "afternoon": -1,
-        "evening": 5
-      }
-    },
-    {
-      "u": 37,
-      "v": 14,
-      "base": 11,
+      "v": 44,
+      "base": 6,
       "traffic": {
         "morning": 1,
-        "afternoon": -1,
-        "evening": 4
-      }
+        "afternoon": 1,
+        "evening": 0
+      },
+      "roadQuality": 2,
+      "weatherFactor": -1,
+      "accidentRisk": 0.88,
+      "toll": 38,
+      "roadType": "highway",
+      "constructionDelay": 4,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "23:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": true
     },
     {
-      "u": 31,
-      "v": 39,
+      "u": 28,
+      "v": 18,
       "base": 15,
       "traffic": {
-        "morning": -3,
-        "afternoon": 1,
-        "evening": -1
-      }
-    },
-    {
-      "u": 21,
-      "v": 28,
-      "base": 13,
-      "traffic": {
-        "morning": -3,
-        "afternoon": 1,
-        "evening": -1
-      }
-    },
-    {
-      "u": 3,
-      "v": 39,
-      "base": 14,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 4,
-        "evening": 0
-      }
-    },
-    {
-      "u": 27,
-      "v": 32,
-      "base": 11,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 1,
-        "evening": 1
-      }
+        "morning": 1,
+        "afternoon": -2,
+        "evening": 5
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.67,
+      "toll": 18,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
     },
     {
       "u": 22,
-      "v": 14,
+      "v": 46,
+      "base": 4,
+      "traffic": {
+        "morning": 0,
+        "afternoon": -2,
+        "evening": 5
+      },
+      "roadQuality": 1,
+      "weatherFactor": -2,
+      "accidentRisk": 0.4,
+      "toll": 17,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 27,
+      "v": 22,
+      "base": 5,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 4,
+        "evening": 3
+      },
+      "roadQuality": 2,
+      "weatherFactor": 3,
+      "accidentRisk": 0.53,
+      "toll": 40,
+      "roadType": "rural",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 120,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 32,
+      "v": 25,
+      "base": 12,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 2,
+        "evening": 5
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.12,
+      "toll": 7,
+      "roadType": "mountain",
+      "constructionDelay": 2,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "19:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 23,
+      "v": 49,
       "base": 14,
       "traffic": {
-        "morning": -2,
+        "morning": -3,
+        "afternoon": 4,
+        "evening": 2
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.5,
+      "toll": 38,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "23:00"
+      },
+      "lanes": 3,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 35,
+      "v": 5,
+      "base": 8,
+      "traffic": {
+        "morning": 3,
         "afternoon": 4,
         "evening": 6
-      }
+      },
+      "roadQuality": 1,
+      "weatherFactor": -1,
+      "accidentRisk": 0.32,
+      "toll": 48,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 60,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 48,
+      "v": 12,
+      "base": 10,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 0,
+        "evening": 6
+      },
+      "roadQuality": 1,
+      "weatherFactor": -3,
+      "accidentRisk": 0.13,
+      "toll": 5,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "23:00"
+      },
+      "lanes": 4,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 44,
+      "v": 40,
+      "base": 8,
+      "traffic": {
+        "morning": 1,
+        "afternoon": -1,
+        "evening": 1
+      },
+      "roadQuality": 5,
+      "weatherFactor": -2,
+      "accidentRisk": 0.4,
+      "toll": 47,
+      "roadType": "mountain",
+      "constructionDelay": 2,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": true
     },
     {
       "u": 11,
-      "v": 25,
-      "base": 3,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 0,
-        "evening": 4
-      }
-    },
-    {
-      "u": 45,
-      "v": 29,
+      "v": 1,
       "base": 10,
       "traffic": {
-        "morning": 3,
-        "afternoon": 1,
-        "evening": 3
-      }
-    },
-    {
-      "u": 37,
-      "v": 30,
-      "base": 14,
-      "traffic": {
-        "morning": -1,
-        "afternoon": -1,
-        "evening": 5
-      }
-    },
-    {
-      "u": 0,
-      "v": 38,
-      "base": 11,
-      "traffic": {
-        "morning": 5,
+        "morning": 1,
         "afternoon": 3,
-        "evening": 4
-      }
+        "evening": 6
+      },
+      "roadQuality": 1,
+      "weatherFactor": 0,
+      "accidentRisk": 0.34,
+      "toll": 10,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "lanes": 3,
+      "speedLimit": 60,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
     },
     {
-      "u": 30,
+      "u": 2,
       "v": 39,
       "base": 5,
       "traffic": {
         "morning": 2,
+        "afternoon": -1,
+        "evening": 2
+      },
+      "roadQuality": 5,
+      "weatherFactor": 0,
+      "accidentRisk": 0.39,
+      "toll": 29,
+      "roadType": "city",
+      "constructionDelay": 2,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 46,
+      "v": 42,
+      "base": 8,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 3,
+        "evening": 3
+      },
+      "roadQuality": 2,
+      "weatherFactor": -3,
+      "accidentRisk": 0.06,
+      "toll": 30,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 44,
+      "v": 29,
+      "base": 11,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 3,
+        "evening": 4
+      },
+      "roadQuality": 5,
+      "weatherFactor": 0,
+      "accidentRisk": 0.25,
+      "toll": 30,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 9,
+      "v": 13,
+      "base": 12,
+      "traffic": {
+        "morning": -2,
+        "afternoon": -1,
+        "evening": 1
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.88,
+      "toll": 37,
+      "roadType": "mountain",
+      "constructionDelay": 5,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 17,
+      "v": 0,
+      "base": 4,
+      "traffic": {
+        "morning": 3,
         "afternoon": 1,
+        "evening": 5
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.65,
+      "toll": 5,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "21:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 17,
+      "v": 24,
+      "base": 14,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 4,
+        "evening": 2
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.02,
+      "toll": 38,
+      "roadType": "rural",
+      "constructionDelay": 5,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "19:00"
+      },
+      "lanes": 1,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 2,
+      "v": 44,
+      "base": 14,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.76,
+      "toll": 46,
+      "roadType": "city",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 34,
+      "v": 20,
+      "base": 5,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 2,
+        "evening": 6
+      },
+      "roadQuality": 5,
+      "weatherFactor": 0,
+      "accidentRisk": 0.38,
+      "toll": 16,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 24,
+      "v": 25,
+      "base": 7,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 2,
+        "evening": 4
+      },
+      "roadQuality": 1,
+      "weatherFactor": 3,
+      "accidentRisk": 0.49,
+      "toll": 14,
+      "roadType": "highway",
+      "constructionDelay": 5,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 26,
+      "v": 41,
+      "base": 4,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 4,
+        "evening": 0
+      },
+      "roadQuality": 3,
+      "weatherFactor": -2,
+      "accidentRisk": 0.35,
+      "toll": 38,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 49,
+      "v": 1,
+      "base": 6,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 3,
+        "evening": 3
+      },
+      "roadQuality": 4,
+      "weatherFactor": 3,
+      "accidentRisk": 0.25,
+      "toll": 34,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 44,
+      "v": 28,
+      "base": 7,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 2,
+        "evening": 6
+      },
+      "roadQuality": 2,
+      "weatherFactor": 1,
+      "accidentRisk": 0.48,
+      "toll": 32,
+      "roadType": "city",
+      "constructionDelay": 5,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 60,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 18,
+      "v": 46,
+      "base": 4,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 0,
+        "evening": 4
+      },
+      "roadQuality": 1,
+      "weatherFactor": -3,
+      "accidentRisk": 0.49,
+      "toll": 0,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 22,
+      "v": 6,
+      "base": 5,
+      "traffic": {
+        "morning": 2,
+        "afternoon": 0,
+        "evening": 5
+      },
+      "roadQuality": 2,
+      "weatherFactor": -2,
+      "accidentRisk": 0.12,
+      "toll": 23,
+      "roadType": "rural",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "19:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 22,
+      "v": 33,
+      "base": 12,
+      "traffic": {
+        "morning": -1,
+        "afternoon": -2,
+        "evening": 5
+      },
+      "roadQuality": 4,
+      "weatherFactor": -3,
+      "accidentRisk": 0.44,
+      "toll": 19,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 33,
+      "v": 42,
+      "base": 11,
+      "traffic": {
+        "morning": -2,
+        "afternoon": -2,
         "evening": -1
-      }
+      },
+      "roadQuality": 1,
+      "weatherFactor": 2,
+      "accidentRisk": 0.53,
+      "toll": 11,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 0,
+      "v": 41,
+      "base": 4,
+      "traffic": {
+        "morning": 2,
+        "afternoon": -2,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": 0,
+      "accidentRisk": 0.04,
+      "toll": 49,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 37,
+      "v": 38,
+      "base": 9,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 4,
+        "evening": 3
+      },
+      "roadQuality": 4,
+      "weatherFactor": 0,
+      "accidentRisk": 0.8,
+      "toll": 4,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "21:00"
+      },
+      "lanes": 4,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 39,
+      "v": 44,
+      "base": 6,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 1,
+      "weatherFactor": -2,
+      "accidentRisk": 0.53,
+      "toll": 35,
+      "roadType": "city",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 37,
+      "v": 45,
+      "base": 3,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 2,
+        "evening": -1
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.25,
+      "toll": 2,
+      "roadType": "rural",
+      "constructionDelay": 2,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 8,
+      "v": 47,
+      "base": 6,
+      "traffic": {
+        "morning": 2,
+        "afternoon": -1,
+        "evening": 3
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.17,
+      "toll": 12,
+      "roadType": "rural",
+      "constructionDelay": 0,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 11,
+      "v": 22,
+      "base": 15,
+      "traffic": {
+        "morning": 1,
+        "afternoon": -2,
+        "evening": 3
+      },
+      "roadQuality": 2,
+      "weatherFactor": -1,
+      "accidentRisk": 0.55,
+      "toll": 19,
+      "roadType": "city",
+      "constructionDelay": 2,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 26,
+      "v": 28,
+      "base": 2,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 0,
+        "evening": 0
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.9,
+      "toll": 37,
+      "roadType": "city",
+      "constructionDelay": 1,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 22,
+      "v": 2,
+      "base": 10,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 2,
+        "evening": 2
+      },
+      "roadQuality": 2,
+      "weatherFactor": -3,
+      "accidentRisk": 0.8,
+      "toll": 50,
+      "roadType": "rural",
+      "constructionDelay": 5,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 5,
+      "v": 10,
+      "base": 4,
+      "traffic": {
+        "morning": -1,
+        "afternoon": -1,
+        "evening": 1
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.21,
+      "toll": 15,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "22:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 8,
+      "v": 24,
+      "base": 11,
+      "traffic": {
+        "morning": -2,
+        "afternoon": -1,
+        "evening": -1
+      },
+      "roadQuality": 5,
+      "weatherFactor": -2,
+      "accidentRisk": 0.86,
+      "toll": 2,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 40,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
     },
     {
       "u": 29,
-      "v": 20,
-      "base": 6,
+      "v": 0,
+      "base": 4,
       "traffic": {
-        "morning": 5,
-        "afternoon": 0,
-        "evening": 3
-      }
+        "morning": 1,
+        "afternoon": -1,
+        "evening": 5
+      },
+      "roadQuality": 2,
+      "weatherFactor": -2,
+      "accidentRisk": 0.14,
+      "toll": 2,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
     },
     {
-      "u": 26,
-      "v": 38,
+      "u": 38,
+      "v": 42,
+      "base": 5,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 0,
+        "evening": 1
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.99,
+      "toll": 10,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "21:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 11,
+      "v": 30,
       "base": 12,
       "traffic": {
-        "morning": 4,
-        "afternoon": 1,
-        "evening": 6
-      }
+        "morning": 1,
+        "afternoon": 4,
+        "evening": 5
+      },
+      "roadQuality": 3,
+      "weatherFactor": -2,
+      "accidentRisk": 0.86,
+      "toll": 11,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
     },
     {
-      "u": 26,
-      "v": 37,
-      "base": 9,
+      "u": 48,
+      "v": 24,
+      "base": 8,
       "traffic": {
-        "morning": 2,
-        "afternoon": 4,
-        "evening": 0
-      }
+        "morning": -1,
+        "afternoon": 0,
+        "evening": 6
+      },
+      "roadQuality": 3,
+      "weatherFactor": 3,
+      "accidentRisk": 0.16,
+      "toll": 9,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "21:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 49,
+      "v": 48,
+      "base": 13,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 0,
+        "evening": 5
+      },
+      "roadQuality": 2,
+      "weatherFactor": -1,
+      "accidentRisk": 0.47,
+      "toll": 41,
+      "roadType": "city",
+      "constructionDelay": 0,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
     },
     {
       "u": 15,
       "v": 28,
-      "base": 13,
+      "base": 15,
       "traffic": {
-        "morning": 5,
-        "afternoon": 2,
-        "evening": 1
-      }
+        "morning": 1,
+        "afternoon": 3,
+        "evening": 5
+      },
+      "roadQuality": 3,
+      "weatherFactor": 1,
+      "accidentRisk": 0.74,
+      "toll": 27,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 120,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
     },
     {
-      "u": 10,
-      "v": 29,
-      "base": 5,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 4,
-        "evening": 0
-      }
-    },
-    {
-      "u": 34,
-      "v": 22,
-      "base": 2,
-      "traffic": {
-        "morning": 5,
-        "afternoon": -2,
-        "evening": 3
-      }
-    },
-    {
-      "u": 46,
-      "v": 34,
+      "u": 33,
+      "v": 45,
       "base": 7,
       "traffic": {
-        "morning": 2,
-        "afternoon": -2,
-        "evening": 1
-      }
-    },
-    {
-      "u": 5,
-      "v": 9,
-      "base": 3,
-      "traffic": {
-        "morning": -1,
-        "afternoon": -2,
-        "evening": -1
-      }
-    },
-    {
-      "u": 2,
-      "v": 27,
-      "base": 11,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 4,
-        "evening": 0
-      }
-    },
-    {
-      "u": 27,
-      "v": 4,
-      "base": 13,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 3,
-        "evening": 0
-      }
-    },
-    {
-      "u": 35,
-      "v": 38,
-      "base": 11,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 1,
-        "evening": 4
-      }
-    },
-    {
-      "u": 46,
-      "v": 31,
-      "base": 11,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 1,
-        "evening": 6
-      }
-    },
-    {
-      "u": 40,
-      "v": 42,
-      "base": 9,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 0,
-        "evening": 6
-      }
-    },
-    {
-      "u": 9,
-      "v": 47,
-      "base": 13,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 0,
-        "evening": 3
-      }
-    },
-    {
-      "u": 14,
-      "v": 11,
-      "base": 8,
-      "traffic": {
-        "morning": -2,
-        "afternoon": 1,
-        "evening": 2
-      }
-    },
-    {
-      "u": 9,
-      "v": 25,
-      "base": 11,
-      "traffic": {
-        "morning": 1,
+        "morning": 4,
         "afternoon": 3,
         "evening": 3
-      }
+      },
+      "roadQuality": 5,
+      "weatherFactor": -1,
+      "accidentRisk": 0.05,
+      "toll": 33,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
     },
     {
-      "u": 10,
-      "v": 19,
-      "base": 4,
+      "u": 24,
+      "v": 23,
+      "base": 6,
       "traffic": {
-        "morning": 0,
-        "afternoon": 2,
-        "evening": 0
-      }
-    },
-    {
-      "u": 7,
-      "v": 48,
-      "base": 13,
-      "traffic": {
-        "morning": 5,
-        "afternoon": 2,
-        "evening": 3
-      }
-    },
-    {
-      "u": 21,
-      "v": 5,
-      "base": 3,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 4,
-        "evening": 4
-      }
+        "morning": 3,
+        "afternoon": 0,
+        "evening": 5
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.07,
+      "toll": 20,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 60,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": false
     },
     {
       "u": 48,
       "v": 6,
-      "base": 3,
+      "base": 2,
       "traffic": {
-        "morning": 3,
-        "afternoon": -1,
-        "evening": 6
-      }
-    },
-    {
-      "u": 0,
-      "v": 25,
-      "base": 12,
-      "traffic": {
-        "morning": 1,
-        "afternoon": -1,
-        "evening": 0
-      }
-    },
-    {
-      "u": 18,
-      "v": 34,
-      "base": 4,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 0,
-        "evening": 4
-      }
-    },
-    {
-      "u": 49,
-      "v": 7,
-      "base": 15,
-      "traffic": {
-        "morning": 1,
+        "morning": -3,
         "afternoon": 2,
         "evening": 1
-      }
+      },
+      "roadQuality": 2,
+      "weatherFactor": -2,
+      "accidentRisk": 0.6,
+      "toll": 2,
+      "roadType": "mountain",
+      "constructionDelay": 2,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 31,
+      "v": 39,
+      "base": 8,
+      "traffic": {
+        "morning": 3,
+        "afternoon": -2,
+        "evening": 6
+      },
+      "roadQuality": 5,
+      "weatherFactor": 3,
+      "accidentRisk": 0.31,
+      "toll": 6,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 11,
+      "v": 44,
+      "base": 6,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 1,
+        "evening": 2
+      },
+      "roadQuality": 3,
+      "weatherFactor": 0,
+      "accidentRisk": 0.96,
+      "toll": 31,
+      "roadType": "city",
+      "constructionDelay": 5,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 15,
+      "v": 11,
+      "base": 11,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 3,
+        "evening": 0
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.93,
+      "toll": 28,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 10,
+      "v": 41,
+      "base": 14,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 3
+      },
+      "roadQuality": 4,
+      "weatherFactor": 1,
+      "accidentRisk": 0.63,
+      "toll": 36,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 40,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 32,
+      "v": 9,
+      "base": 3,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 3,
+        "evening": 0
+      },
+      "roadQuality": 4,
+      "weatherFactor": -1,
+      "accidentRisk": 0.77,
+      "toll": 1,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
     },
     {
       "u": 48,
       "v": 19,
-      "base": 4,
+      "base": 7,
       "traffic": {
-        "morning": 1,
-        "afternoon": -1,
-        "evening": 2
-      }
-    },
-    {
-      "u": 12,
-      "v": 45,
-      "base": 5,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 1,
-        "evening": -1
-      }
-    },
-    {
-      "u": 0,
-      "v": 8,
-      "base": 14,
-      "traffic": {
-        "morning": 5,
-        "afternoon": -1,
-        "evening": 4
-      }
-    },
-    {
-      "u": 46,
-      "v": 20,
-      "base": 3,
-      "traffic": {
-        "morning": 5,
-        "afternoon": -1,
-        "evening": 4
-      }
+        "morning": 4,
+        "afternoon": 2,
+        "evening": 1
+      },
+      "roadQuality": 3,
+      "weatherFactor": -1,
+      "accidentRisk": 0.47,
+      "toll": 9,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": true
     },
     {
       "u": 47,
-      "v": 36,
-      "base": 6,
-      "traffic": {
-        "morning": -1,
-        "afternoon": 4,
-        "evening": 5
-      }
-    },
-    {
-      "u": 25,
-      "v": 43,
-      "base": 6,
+      "v": 37,
+      "base": 13,
       "traffic": {
         "morning": -3,
         "afternoon": 2,
-        "evening": 0
-      }
+        "evening": 1
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.04,
+      "toll": 7,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
     },
     {
-      "u": 48,
-      "v": 9,
+      "u": 25,
+      "v": 35,
       "base": 5,
       "traffic": {
-        "morning": -2,
-        "afternoon": 3,
-        "evening": 2
-      }
+        "morning": 3,
+        "afternoon": -2,
+        "evening": 4
+      },
+      "roadQuality": 5,
+      "weatherFactor": -3,
+      "accidentRisk": 0.63,
+      "toll": 21,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 60,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
     },
     {
-      "u": 30,
-      "v": 27,
-      "base": 15,
-      "traffic": {
-        "morning": 4,
-        "afternoon": -1,
-        "evening": -1
-      }
-    },
-    {
-      "u": 1,
-      "v": 16,
-      "base": 7,
-      "traffic": {
-        "morning": 2,
-        "afternoon": 0,
-        "evening": 5
-      }
-    },
-    {
-      "u": 29,
-      "v": 22,
-      "base": 6,
-      "traffic": {
-        "morning": 1,
-        "afternoon": 4,
-        "evening": 0
-      }
-    },
-    {
-      "u": 31,
-      "v": 3,
+      "u": 12,
+      "v": 32,
       "base": 10,
       "traffic": {
-        "morning": 1,
-        "afternoon": 4,
-        "evening": 1
-      }
-    },
-    {
-      "u": 37,
-      "v": 3,
-      "base": 15,
-      "traffic": {
-        "morning": 0,
-        "afternoon": 0,
-        "evening": 3
-      }
-    },
-    {
-      "u": 6,
-      "v": 40,
-      "base": 11,
-      "traffic": {
-        "morning": -1,
+        "morning": 4,
         "afternoon": -2,
-        "evening": -1
-      }
+        "evening": 1
+      },
+      "roadQuality": 4,
+      "weatherFactor": -3,
+      "accidentRisk": 0.69,
+      "toll": 19,
+      "roadType": "city",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": false
     },
     {
       "u": 12,
       "v": 37,
-      "base": 13,
+      "base": 3,
       "traffic": {
-        "morning": 1,
-        "afternoon": 0,
-        "evening": 5
-      }
+        "morning": -3,
+        "afternoon": 1,
+        "evening": 1
+      },
+      "roadQuality": 2,
+      "weatherFactor": -1,
+      "accidentRisk": 0.69,
+      "toll": 2,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
     },
     {
-      "u": 9,
-      "v": 1,
+      "u": 34,
+      "v": 19,
+      "base": 11,
+      "traffic": {
+        "morning": 2,
+        "afternoon": 3,
+        "evening": 4
+      },
+      "roadQuality": 2,
+      "weatherFactor": 1,
+      "accidentRisk": 0.1,
+      "toll": 38,
+      "roadType": "rural",
+      "constructionDelay": 5,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "23:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 10,
+      "v": 28,
+      "base": 5,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 1,
+        "evening": 6
+      },
+      "roadQuality": 1,
+      "weatherFactor": -3,
+      "accidentRisk": 0.82,
+      "toll": 31,
+      "roadType": "city",
+      "constructionDelay": 5,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 24,
+      "v": 10,
+      "base": 13,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 3,
+      "weatherFactor": 3,
+      "accidentRisk": 0.98,
+      "toll": 46,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "23:00"
+      },
+      "lanes": 1,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 12,
+      "v": 42,
       "base": 14,
       "traffic": {
         "morning": 1,
-        "afternoon": 1,
-        "evening": 4
-      }
+        "afternoon": 0,
+        "evening": 2
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.37,
+      "toll": 31,
+      "roadType": "city",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": false
     },
     {
-      "u": 41,
-      "v": 15,
+      "u": 20,
+      "v": 5,
+      "base": 5,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 6
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.07,
+      "toll": 15,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "19:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 34,
+      "v": 45,
+      "base": 9,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 5
+      },
+      "roadQuality": 3,
+      "weatherFactor": 0,
+      "accidentRisk": 0.73,
+      "toll": 41,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 32,
+      "v": 40,
+      "base": 13,
+      "traffic": {
+        "morning": 2,
+        "afternoon": 2,
+        "evening": 6
+      },
+      "roadQuality": 5,
+      "weatherFactor": 1,
+      "accidentRisk": 0.12,
+      "toll": 8,
+      "roadType": "city",
+      "constructionDelay": 2,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 34,
+      "v": 48,
+      "base": 7,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 2,
+        "evening": 3
+      },
+      "roadQuality": 1,
+      "weatherFactor": 3,
+      "accidentRisk": 0.95,
+      "toll": 35,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "23:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 43,
+      "v": 21,
+      "base": 12,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -2,
+        "evening": 6
+      },
+      "roadQuality": 3,
+      "weatherFactor": -1,
+      "accidentRisk": 0.79,
+      "toll": 9,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "23:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 40,
+      "v": 43,
       "base": 4,
       "traffic": {
-        "morning": -2,
+        "morning": 5,
+        "afternoon": -2,
+        "evening": 1
+      },
+      "roadQuality": 4,
+      "weatherFactor": 1,
+      "accidentRisk": 0.63,
+      "toll": 4,
+      "roadType": "rural",
+      "constructionDelay": 2,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 49,
+      "v": 4,
+      "base": 2,
+      "traffic": {
+        "morning": 2,
         "afternoon": 0,
+        "evening": 2
+      },
+      "roadQuality": 5,
+      "weatherFactor": 1,
+      "accidentRisk": 0.68,
+      "toll": 20,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 34,
+      "v": 49,
+      "base": 2,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 4,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": -1,
+      "accidentRisk": 0.0,
+      "toll": 17,
+      "roadType": "mountain",
+      "constructionDelay": 2,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 47,
+      "v": 14,
+      "base": 5,
+      "traffic": {
+        "morning": -1,
+        "afternoon": -2,
+        "evening": -1
+      },
+      "roadQuality": 2,
+      "weatherFactor": -1,
+      "accidentRisk": 0.08,
+      "toll": 36,
+      "roadType": "mountain",
+      "constructionDelay": 1,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 33,
+      "v": 12,
+      "base": 10,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 3,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": -1,
+      "accidentRisk": 0.07,
+      "toll": 49,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "22:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 33,
+      "v": 40,
+      "base": 9,
+      "traffic": {
+        "morning": 2,
+        "afternoon": 2,
         "evening": 6
-      }
+      },
+      "roadQuality": 3,
+      "weatherFactor": 1,
+      "accidentRisk": 0.56,
+      "toll": 3,
+      "roadType": "rural",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 22,
+      "v": 49,
+      "base": 12,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.88,
+      "toll": 33,
+      "roadType": "city",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "22:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 39,
+      "v": 25,
+      "base": 6,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -1,
+        "evening": 5
+      },
+      "roadQuality": 1,
+      "weatherFactor": -3,
+      "accidentRisk": 0.18,
+      "toll": 41,
+      "roadType": "rural",
+      "constructionDelay": 1,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "02:00",
+        "end": "21:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 12,
+      "v": 47,
+      "base": 15,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 1,
+        "evening": 1
+      },
+      "roadQuality": 3,
+      "weatherFactor": -1,
+      "accidentRisk": 0.43,
+      "toll": 45,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 20,
+      "v": 18,
+      "base": 9,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 0,
+        "evening": 4
+      },
+      "roadQuality": 2,
+      "weatherFactor": 3,
+      "accidentRisk": 0.9,
+      "toll": 49,
+      "roadType": "highway",
+      "constructionDelay": 5,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "21:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 46,
+      "v": 23,
+      "base": 6,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 0,
+        "evening": -1
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.3,
+      "toll": 39,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 80,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 0,
+      "v": 27,
+      "base": 3,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 1,
+        "evening": 1
+      },
+      "roadQuality": 5,
+      "weatherFactor": -1,
+      "accidentRisk": 0.02,
+      "toll": 35,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 36,
+      "v": 8,
+      "base": 6,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 1,
+        "evening": 5
+      },
+      "roadQuality": 4,
+      "weatherFactor": -1,
+      "accidentRisk": 0.71,
+      "toll": 12,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "21:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 20,
+      "v": 41,
+      "base": 4,
+      "traffic": {
+        "morning": -1,
+        "afternoon": -1,
+        "evening": 6
+      },
+      "roadQuality": 4,
+      "weatherFactor": -1,
+      "accidentRisk": 0.48,
+      "toll": 19,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "22:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
     },
     {
       "u": 27,
-      "v": 7,
+      "v": 32,
+      "base": 4,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 0,
+        "evening": 1
+      },
+      "roadQuality": 5,
+      "weatherFactor": -3,
+      "accidentRisk": 0.36,
+      "toll": 36,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 21,
+      "v": 36,
+      "base": 2,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -1,
+        "evening": 0
+      },
+      "roadQuality": 4,
+      "weatherFactor": 0,
+      "accidentRisk": 0.51,
+      "toll": 35,
+      "roadType": "rural",
+      "constructionDelay": 1,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 48,
+      "v": 17,
+      "base": 2,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 4,
+        "evening": 1
+      },
+      "roadQuality": 5,
+      "weatherFactor": 0,
+      "accidentRisk": 0.94,
+      "toll": 43,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "02:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 10,
+      "v": 26,
+      "base": 8,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.88,
+      "toll": 37,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 32,
+      "v": 15,
+      "base": 2,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -1,
+        "evening": 4
+      },
+      "roadQuality": 2,
+      "weatherFactor": -2,
+      "accidentRisk": 0.77,
+      "toll": 43,
+      "roadType": "rural",
+      "constructionDelay": 5,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "23:00"
+      },
+      "lanes": 3,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 3,
+      "v": 21,
+      "base": 9,
+      "traffic": {
+        "morning": 2,
+        "afternoon": -2,
+        "evening": 1
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.7,
+      "toll": 32,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "19:00"
+      },
+      "lanes": 1,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 8,
+      "v": 39,
+      "base": 7,
+      "traffic": {
+        "morning": -3,
+        "afternoon": -1,
+        "evening": 3
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.14,
+      "toll": 0,
+      "roadType": "highway",
+      "constructionDelay": 5,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "21:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 0,
+      "v": 3,
+      "base": 14,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 1,
+        "evening": 5
+      },
+      "roadQuality": 1,
+      "weatherFactor": 3,
+      "accidentRisk": 0.41,
+      "toll": 10,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "02:00",
+        "end": "19:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 48,
+      "v": 47,
+      "base": 6,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 0,
+        "evening": 0
+      },
+      "roadQuality": 2,
+      "weatherFactor": -3,
+      "accidentRisk": 0.22,
+      "toll": 8,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "23:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 20,
+      "v": 2,
+      "base": 7,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 1,
+        "evening": 6
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.98,
+      "toll": 43,
+      "roadType": "mountain",
+      "constructionDelay": 5,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 60,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 48,
+      "v": 45,
+      "base": 11,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 2,
+        "evening": 6
+      },
+      "roadQuality": 5,
+      "weatherFactor": 0,
+      "accidentRisk": 0.55,
+      "toll": 43,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "19:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 1,
+      "v": 4,
+      "base": 9,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 4,
+        "evening": 0
+      },
+      "roadQuality": 2,
+      "weatherFactor": -2,
+      "accidentRisk": 0.03,
+      "toll": 20,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 15,
+      "v": 8,
+      "base": 11,
+      "traffic": {
+        "morning": 0,
+        "afternoon": -2,
+        "evening": 4
+      },
+      "roadQuality": 2,
+      "weatherFactor": 0,
+      "accidentRisk": 0.58,
+      "toll": 17,
+      "roadType": "highway",
+      "constructionDelay": 5,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "22:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 29,
+      "v": 3,
       "base": 7,
       "traffic": {
         "morning": 1,
+        "afternoon": 3,
+        "evening": 1
+      },
+      "roadQuality": 3,
+      "weatherFactor": -1,
+      "accidentRisk": 0.97,
+      "toll": 25,
+      "roadType": "rural",
+      "constructionDelay": 0,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "21:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 45,
+      "v": 25,
+      "base": 10,
+      "traffic": {
+        "morning": 4,
+        "afternoon": -2,
+        "evening": 4
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.62,
+      "toll": 28,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 41,
+      "v": 35,
+      "base": 4,
+      "traffic": {
+        "morning": -3,
         "afternoon": -1,
-        "evening": 5
-      }
+        "evening": 1
+      },
+      "roadQuality": 5,
+      "weatherFactor": 1,
+      "accidentRisk": 0.11,
+      "toll": 40,
+      "roadType": "rural",
+      "constructionDelay": 1,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "19:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 16,
+      "v": 21,
+      "base": 2,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 4,
+        "evening": 6
+      },
+      "roadQuality": 3,
+      "weatherFactor": 1,
+      "accidentRisk": 0.0,
+      "toll": 48,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 0,
+      "v": 20,
+      "base": 2,
+      "traffic": {
+        "morning": 2,
+        "afternoon": -1,
+        "evening": 0
+      },
+      "roadQuality": 5,
+      "weatherFactor": -2,
+      "accidentRisk": 0.86,
+      "toll": 20,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 19,
+      "v": 2,
+      "base": 6,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 3,
+        "evening": 6
+      },
+      "roadQuality": 2,
+      "weatherFactor": 1,
+      "accidentRisk": 0.58,
+      "toll": 8,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "19:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 16,
+      "v": 32,
+      "base": 9,
+      "traffic": {
+        "morning": -3,
+        "afternoon": -2,
+        "evening": 3
+      },
+      "roadQuality": 4,
+      "weatherFactor": 1,
+      "accidentRisk": 0.29,
+      "toll": 8,
+      "roadType": "city",
+      "constructionDelay": 2,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "01:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 11,
+      "v": 27,
+      "base": 5,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 3,
+        "evening": 3
+      },
+      "roadQuality": 5,
+      "weatherFactor": 3,
+      "accidentRisk": 0.21,
+      "toll": 44,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 15,
+      "v": 39,
+      "base": 12,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 0,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": 2,
+      "accidentRisk": 0.33,
+      "toll": 6,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 38,
+      "v": 11,
+      "base": 13,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 2,
+        "evening": 2
+      },
+      "roadQuality": 5,
+      "weatherFactor": -1,
+      "accidentRisk": 0.35,
+      "toll": 46,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 38,
+      "v": 25,
+      "base": 5,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 4,
+        "evening": 2
+      },
+      "roadQuality": 3,
+      "weatherFactor": -3,
+      "accidentRisk": 0.13,
+      "toll": 19,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 14,
+      "v": 17,
+      "base": 13,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 1,
+        "evening": -1
+      },
+      "roadQuality": 5,
+      "weatherFactor": -1,
+      "accidentRisk": 0.41,
+      "toll": 16,
+      "roadType": "mountain",
+      "constructionDelay": 2,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "02:00",
+        "end": "20:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 21,
+      "v": 27,
+      "base": 8,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 1,
+        "evening": 3
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.04,
+      "toll": 32,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "02:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 40,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 16,
+      "v": 22,
+      "base": 13,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 1,
+        "evening": 6
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.35,
+      "toll": 17,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "19:00"
+      },
+      "lanes": 3,
+      "speedLimit": 120,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 29,
+      "v": 24,
+      "base": 8,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": -1
+      },
+      "roadQuality": 5,
+      "weatherFactor": 3,
+      "accidentRisk": 0.46,
+      "toll": 39,
+      "roadType": "mountain",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 16,
+      "v": 6,
+      "base": 7,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 0,
+        "evening": 4
+      },
+      "roadQuality": 1,
+      "weatherFactor": -3,
+      "accidentRisk": 0.67,
+      "toll": 11,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 120,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 0,
+      "v": 6,
+      "base": 3,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 2,
+        "evening": 2
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.29,
+      "toll": 37,
+      "roadType": "city",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "19:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 9,
+      "v": 36,
+      "base": 2,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 1,
+        "evening": 3
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.12,
+      "toll": 35,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 39,
+      "v": 35,
+      "base": 12,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 0,
+        "evening": 4
+      },
+      "roadQuality": 5,
+      "weatherFactor": 3,
+      "accidentRisk": 0.13,
+      "toll": 5,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 34,
+      "v": 11,
+      "base": 10,
+      "traffic": {
+        "morning": 4,
+        "afternoon": 4,
+        "evening": -1
+      },
+      "roadQuality": 3,
+      "weatherFactor": -1,
+      "accidentRisk": 0.83,
+      "toll": 20,
+      "roadType": "rural",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 45,
+      "v": 42,
+      "base": 6,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 1
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.79,
+      "toll": 42,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 16,
+      "v": 19,
+      "base": 5,
+      "traffic": {
+        "morning": 2,
+        "afternoon": -1,
+        "evening": 3
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.11,
+      "toll": 0,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "19:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 24,
+      "v": 26,
+      "base": 14,
+      "traffic": {
+        "morning": 0,
+        "afternoon": -2,
+        "evening": 4
+      },
+      "roadQuality": 3,
+      "weatherFactor": 2,
+      "accidentRisk": 0.89,
+      "toll": 18,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "foggy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 29,
+      "v": 45,
+      "base": 5,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 0,
+        "evening": 4
+      },
+      "roadQuality": 3,
+      "weatherFactor": 3,
+      "accidentRisk": 0.02,
+      "toll": 10,
+      "roadType": "highway",
+      "constructionDelay": 2,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 40,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 22,
+      "v": 7,
+      "base": 9,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 3,
+      "weatherFactor": -1,
+      "accidentRisk": 0.56,
+      "toll": 13,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 42,
+      "v": 5,
+      "base": 2,
+      "traffic": {
+        "morning": 3,
+        "afternoon": 3,
+        "evening": 6
+      },
+      "roadQuality": 5,
+      "weatherFactor": 1,
+      "accidentRisk": 0.88,
+      "toll": 4,
+      "roadType": "mountain",
+      "constructionDelay": 5,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "23:00"
+      },
+      "lanes": 4,
+      "speedLimit": 80,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 19,
+      "v": 45,
+      "base": 3,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 0,
+        "evening": 2
+      },
+      "roadQuality": 5,
+      "weatherFactor": -1,
+      "accidentRisk": 0.12,
+      "toll": 27,
+      "roadType": "mountain",
+      "constructionDelay": 1,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 8,
+      "v": 12,
+      "base": 7,
+      "traffic": {
+        "morning": 2,
+        "afternoon": -1,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.97,
+      "toll": 9,
+      "roadType": "city",
+      "constructionDelay": 0,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 49,
+      "v": 45,
+      "base": 6,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -2,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": 0,
+      "accidentRisk": 0.91,
+      "toll": 41,
+      "roadType": "highway",
+      "constructionDelay": 3,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "21:00"
+      },
+      "lanes": 4,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 22,
+      "v": 19,
+      "base": 3,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 3,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": 3,
+      "accidentRisk": 0.92,
+      "toll": 22,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "22:00"
+      },
+      "lanes": 3,
+      "speedLimit": 40,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 6,
+      "v": 46,
+      "base": 6,
+      "traffic": {
+        "morning": -3,
+        "afternoon": -2,
+        "evening": 2
+      },
+      "roadQuality": 3,
+      "weatherFactor": -2,
+      "accidentRisk": 0.35,
+      "toll": 44,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "23:00"
+      },
+      "lanes": 1,
+      "speedLimit": 40,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 44,
+      "v": 38,
+      "base": 9,
+      "traffic": {
+        "morning": 3,
+        "afternoon": -1,
+        "evening": 0
+      },
+      "roadQuality": 5,
+      "weatherFactor": 1,
+      "accidentRisk": 0.04,
+      "toll": 44,
+      "roadType": "city",
+      "constructionDelay": 1,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "18:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 37,
+      "v": 1,
+      "base": 9,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 2,
+        "evening": 0
+      },
+      "roadQuality": 5,
+      "weatherFactor": 3,
+      "accidentRisk": 0.84,
+      "toll": 21,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "21:00"
+      },
+      "lanes": 3,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 24,
+      "v": 40,
+      "base": 2,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 1,
+        "evening": 6
+      },
+      "roadQuality": 2,
+      "weatherFactor": 2,
+      "accidentRisk": 0.07,
+      "toll": 31,
+      "roadType": "mountain",
+      "constructionDelay": 2,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "23:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 8,
+      "v": 46,
+      "base": 9,
+      "traffic": {
+        "morning": 1,
+        "afternoon": -2,
+        "evening": 2
+      },
+      "roadQuality": 3,
+      "weatherFactor": 3,
+      "accidentRisk": 0.28,
+      "toll": 33,
+      "roadType": "mountain",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "23:00"
+      },
+      "lanes": 3,
+      "speedLimit": 120,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 30,
+      "v": 1,
+      "base": 12,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 3,
+      "weatherFactor": 0,
+      "accidentRisk": 0.44,
+      "toll": 50,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "03:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 43,
+      "v": 3,
+      "base": 10,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 1,
+        "evening": 2
+      },
+      "roadQuality": 1,
+      "weatherFactor": -2,
+      "accidentRisk": 0.18,
+      "toll": 31,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": -1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 34,
+      "v": 1,
+      "base": 11,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 0
+      },
+      "roadQuality": 4,
+      "weatherFactor": -2,
+      "accidentRisk": 0.96,
+      "toll": 13,
+      "roadType": "highway",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 40,
+      "weatherCondition": "rainy",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 18,
+      "v": 39,
+      "base": 5,
+      "traffic": {
+        "morning": 3,
+        "afternoon": -1,
+        "evening": 3
+      },
+      "roadQuality": 3,
+      "weatherFactor": 1,
+      "accidentRisk": 0.36,
+      "toll": 32,
+      "roadType": "highway",
+      "constructionDelay": 4,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 40,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 13,
+      "v": 38,
+      "base": 10,
+      "traffic": {
+        "morning": 5,
+        "afternoon": 1,
+        "evening": 3
+      },
+      "roadQuality": 3,
+      "weatherFactor": 3,
+      "accidentRisk": 0.22,
+      "toll": 47,
+      "roadType": "highway",
+      "constructionDelay": 1,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "02:00",
+        "end": "19:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 16,
+      "v": 47,
+      "base": 5,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 1,
+        "evening": 0
+      },
+      "roadQuality": 4,
+      "weatherFactor": 0,
+      "accidentRisk": 0.92,
+      "toll": 50,
+      "roadType": "city",
+      "constructionDelay": 1,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "22:00"
+      },
+      "lanes": 2,
+      "speedLimit": 60,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": false
+    },
+    {
+      "u": 14,
+      "v": 4,
+      "base": 8,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 3,
+        "evening": -1
+      },
+      "roadQuality": 4,
+      "weatherFactor": 2,
+      "accidentRisk": 0.39,
+      "toll": 49,
+      "roadType": "mountain",
+      "constructionDelay": 3,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "21:00"
+      },
+      "lanes": 1,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 10,
+      "v": 23,
+      "base": 7,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 2
+      },
+      "roadQuality": 4,
+      "weatherFactor": 1,
+      "accidentRisk": 0.11,
+      "toll": 43,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "00:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 49,
+      "v": 3,
+      "base": 5,
+      "traffic": {
+        "morning": -2,
+        "afternoon": 0,
+        "evening": 4
+      },
+      "roadQuality": 3,
+      "weatherFactor": -2,
+      "accidentRisk": 0.94,
+      "toll": 1,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "22:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 45,
+      "v": 18,
+      "base": 13,
+      "traffic": {
+        "morning": 2,
+        "afternoon": 4,
+        "evening": 2
+      },
+      "roadQuality": 2,
+      "weatherFactor": 3,
+      "accidentRisk": 0.04,
+      "toll": 20,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "06:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 40,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 32,
+      "v": 4,
+      "base": 4,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 4,
+        "evening": 4
+      },
+      "roadQuality": 4,
+      "weatherFactor": -3,
+      "accidentRisk": 0.81,
+      "toll": 44,
+      "roadType": "mountain",
+      "constructionDelay": 4,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "00:00",
+        "end": "22:00"
+      },
+      "lanes": 1,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 6,
+      "v": 30,
+      "base": 15,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -1,
+        "evening": -1
+      },
+      "roadQuality": 1,
+      "weatherFactor": 1,
+      "accidentRisk": 0.36,
+      "toll": 35,
+      "roadType": "rural",
+      "constructionDelay": 0,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "20:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "sunny",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 19,
+      "v": 23,
+      "base": 3,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 1,
+        "evening": 0
+      },
+      "roadQuality": 4,
+      "weatherFactor": -1,
+      "accidentRisk": 0.98,
+      "toll": 0,
+      "roadType": "rural",
+      "constructionDelay": 2,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "06:00",
+        "end": "18:00"
+      },
+      "lanes": 4,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "closed",
+      "oneWay": true
+    },
+    {
+      "u": 10,
+      "v": 49,
+      "base": 4,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 3,
+        "evening": -1
+      },
+      "roadQuality": 5,
+      "weatherFactor": -3,
+      "accidentRisk": 0.32,
+      "toll": 45,
+      "roadType": "mountain",
+      "constructionDelay": 5,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 120,
+      "weatherCondition": "rainy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 39,
+      "v": 40,
+      "base": 6,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 2,
+        "evening": 3
+      },
+      "roadQuality": 3,
+      "weatherFactor": 3,
+      "accidentRisk": 0.79,
+      "toll": 29,
+      "roadType": "city",
+      "constructionDelay": 4,
+      "weekendBoost": -1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "18:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 29,
+      "v": 23,
+      "base": 8,
+      "traffic": {
+        "morning": 4,
+        "afternoon": -2,
+        "evening": 4
+      },
+      "roadQuality": 5,
+      "weatherFactor": 2,
+      "accidentRisk": 0.01,
+      "toll": 34,
+      "roadType": "highway",
+      "constructionDelay": 5,
+      "weekendBoost": -2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "05:00",
+        "end": "23:00"
+      },
+      "lanes": 2,
+      "speedLimit": 120,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 25,
+      "v": 7,
+      "base": 7,
+      "traffic": {
+        "morning": -1,
+        "afternoon": 3,
+        "evening": 2
+      },
+      "roadQuality": 2,
+      "weatherFactor": 1,
+      "accidentRisk": 0.17,
+      "toll": 26,
+      "roadType": "rural",
+      "constructionDelay": 3,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "04:00",
+        "end": "23:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 7,
+      "v": 47,
+      "base": 12,
+      "traffic": {
+        "morning": 1,
+        "afternoon": 1,
+        "evening": -1
+      },
+      "roadQuality": 1,
+      "weatherFactor": 2,
+      "accidentRisk": 0.23,
+      "toll": 27,
+      "roadType": "city",
+      "constructionDelay": 0,
+      "weekendBoost": 0,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 60,
+      "weatherCondition": "foggy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 12,
+      "v": 17,
+      "base": 8,
+      "traffic": {
+        "morning": 0,
+        "afternoon": 3,
+        "evening": 2
+      },
+      "roadQuality": 3,
+      "weatherFactor": 2,
+      "accidentRisk": 0.79,
+      "toll": 36,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": -2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "03:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 27,
+      "v": 23,
+      "base": 7,
+      "traffic": {
+        "morning": 2,
+        "afternoon": 2,
+        "evening": 0
+      },
+      "roadQuality": 4,
+      "weatherFactor": 3,
+      "accidentRisk": 0.96,
+      "toll": 10,
+      "roadType": "mountain",
+      "constructionDelay": 0,
+      "weekendBoost": 1,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "01:00",
+        "end": "20:00"
+      },
+      "lanes": 4,
+      "speedLimit": 120,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 18,
+      "v": 27,
+      "base": 9,
+      "traffic": {
+        "morning": -3,
+        "afternoon": 1,
+        "evening": -1
+      },
+      "roadQuality": 4,
+      "weatherFactor": -1,
+      "accidentRisk": 0.87,
+      "toll": 40,
+      "roadType": "highway",
+      "constructionDelay": 5,
+      "weekendBoost": 2,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "23:00"
+      },
+      "lanes": 1,
+      "speedLimit": 80,
+      "weatherCondition": "stormy",
+      "status": "open",
+      "oneWay": true
+    },
+    {
+      "u": 26,
+      "v": 22,
+      "base": 10,
+      "traffic": {
+        "morning": 3,
+        "afternoon": -2,
+        "evening": -1
+      },
+      "roadQuality": 2,
+      "weatherFactor": 1,
+      "accidentRisk": 0.4,
+      "toll": 32,
+      "roadType": "rural",
+      "constructionDelay": 4,
+      "weekendBoost": 2,
+      "publicTransport": true,
+      "availableHours": {
+        "start": "05:00",
+        "end": "18:00"
+      },
+      "lanes": 2,
+      "speedLimit": 100,
+      "weatherCondition": "sunny",
+      "status": "open",
+      "oneWay": false
+    },
+    {
+      "u": 48,
+      "v": 2,
+      "base": 4,
+      "traffic": {
+        "morning": 5,
+        "afternoon": -1,
+        "evening": 2
+      },
+      "roadQuality": 4,
+      "weatherFactor": -1,
+      "accidentRisk": 0.5,
+      "toll": 41,
+      "roadType": "city",
+      "constructionDelay": 3,
+      "weekendBoost": 1,
+      "publicTransport": false,
+      "availableHours": {
+        "start": "04:00",
+        "end": "20:00"
+      },
+      "lanes": 3,
+      "speedLimit": 100,
+      "weatherCondition": "cloudy",
+      "status": "open",
+      "oneWay": false
     }
   ]
 }
